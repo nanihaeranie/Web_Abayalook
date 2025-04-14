@@ -19,7 +19,7 @@ subdescription: >-
 
 intro:
   blurbs:
-    - image: /img/lookd.jpg
+    - image: /img/looka.jpg
       text: >
         ✨ Elegance in Simplicity ✨
         Abaya dengan sentuhan warna earth tone yang anggun dan modern. memberikan kenyamanan, dipadukan dengan detail kontras kesan classy.  

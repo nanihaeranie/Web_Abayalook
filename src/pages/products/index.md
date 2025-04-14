@@ -1,43 +1,25 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+title: Abaya Look 💗✨💫
+image: /img/abayoo.jpg
+heading: Keanggunan Abaya yang Bermakna
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Abaya Look adalah destinasi utama bagi mereka yang menghargai keindahan dalam setiap detail. Lebih dari sekadar busana, setiap abaya yang kami hadirkan mengusung nilai tradisi, kualitas, dan dedikasi para pengrajin. Dibuat dengan ketelitian dan cinta, setiap potongan abaya memiliki cerita yang layak untuk dibagikan.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/baju.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Kami menghadirkan koleksi abaya elegan dari bahan berkualitas pilihan. Setiap desain dibuat dengan cermat, mendukung lingkungan, dan komunitas lokal. Lihat koleksi terbaru kami atau hubungi kami untuk desain terkini!
+    - image: /img/bajuu.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        Kami menghadirkan koleksi abaya elegan yang dipilih dengan cermat untuk berbagai gaya. Temukan abaya yang sempurna untuk melengkapi penampilan Anda!
+    - image: /img/bajuuu.jpg
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        Ingin tampil elegan dengan abaya, tapi bingung memilih yang tepat? Baru membeli abaya baru tapi belum tahu cara memadukannya? Tenang, kami siap membantu! Jadwalkan konsultasi pribadi dengan tim kami untuk menemukan abaya dan gaya yang paling cocok untuk Anda. Hubungi kami melalui email atau telepon untuk info lebih lanjut.
+    - image: /img/bajuuuu.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Kami percaya abaya adalah simbol keanggunan dan kepercayaan diri. Karena itu, kami menghadirkan ruang khusus untuk Anda mengeksplorasi berbagai gaya, berbagi inspirasi, dan menemukan tampilan yang paling cocok. Semua aksesori dan karya seni di sini juga tersedia untuk dibeli, langsung mendukung para kreatornya.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -45,57 +27,51 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Keindahan yang terjaga sempurna
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+      Kami menghadirkan abaya dengan standar tertinggi, dari pemilihan bahan hingga hasil akhir. Setiap proses diperhatikan dengan cermat dan transparan, memastikan kualitas terbaik serta mendukung pengrajin, komunitas lokal, dan lingkungan.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/bajue.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/bajun.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/bajune.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Arumi elona aura
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      "Saat pertama kali mengenakan abaya ini, saya langsung merasa lebih anggun dan percaya diri sesuatu yang belum pernah saya rasakan sebelumnya."  
+
+  - author: Elona Nazeera
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Tempat yang tepat untuk menemukan abaya berkualitas. Saya suka bagaimana mereka menghadirkan desain elegan dengan material terbaik dan tetap mendukung pengrajin lokal.
+full_image: /img/abaynn.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Berlangganan abaya 
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Berlangganan abaya eksklusif setiap bulan. Kami memudahkan Anda untuk selalu tampil elegan dengan koleksi abaya terbaik. Pilih paket langganan bulanan kami dan dapatkan abaya pilihan langsung di depan pintu Anda setiap bulan. Hubungi kami untuk detail dan informasi pembayaran.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: Sempurna bagi Anda yang ingin menambah koleksi abaya dengan pilihan eksklusif setiap bulan
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+        - 1 abaya per bulan
+        - Desain klasik atau modern
+        - Pilihan warna dan motif elegan
+      plan: Paket hemat
+      price: '250'
+    - description: 'Pilihan tepat bagi pecinta abaya, pasangan, atau mereka yang ingin tampil elegan dalam berbagai kesempatan.'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 2 abaya per bulan
+        - Desain eksklusif dan premium
+        - Hingga 4 pilihan warna dan motif elegan
+      plan: Paket pasangan 
+      price: '350'
+    - description: Ingin koleksi abaya yang benar-benar sesuai dengan selera Anda? Coba paket custom kami!
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '??'
+        - Pilihan jumlah abaya sesuai kebutuhan
+        - Desain, warna, dan motif bebas dipilih
+  
+      plan: Paket Custom
+      price: '450 '
 ---
