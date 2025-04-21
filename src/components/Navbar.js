@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { Link } from "gatsby";
 import whatsapp from "../img/whatsapp icon.jpeg";
-import logo from "../img/abaya.png";
+import logo from "../img/ABAYA LOOK.png";
 
 const Navbar = () => {
   const [isActive, setIsActive] = useState(false);
@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="container">
         <div className="navbar-brand">
           <Link to="/" className="navbar-item" title="Logo">
-            <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <img src={logo} alt="abaya look" style={{ width: "88px" }} />
           </Link>
           {/* Hamburger menu */}
           <button
