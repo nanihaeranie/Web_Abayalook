@@ -14,7 +14,7 @@ description: >-
   "Abaya: Keanggunan yang Tak Lekang oleh Waktu" ✨🖤  Lebih dari sekadar busana, abaya adalah perwujudan dari kelembutan, kepercayaan diri, dan gaya yang timeless. Setiap potongannya dirancang untuk memberikan kenyamanan tanpa mengorbankan estetika. Simpel, elegan, dan selalu memancarkan pesona di setiap kesempatan.
 
 subdescription: >-
-  "Abaya: Keanggunan yang Tak Lekang oleh Waktu" ✨🖤  Lebih dari sekadar busana, abaya adalah perwujudan dari kelembutan, kepercayaan diri, dan gaya yang timeless. Setiap potongannya dirancang untuk memberikan kenyamanan tanpa mengorbankan estetika. Simpel, elegan, dan selalu memancarkan pesona di setiap kesempatan.
+  "Abaya: Keanggunan yang Tak Lekang oleh Waktu" ✨🖤  Lebih dari sekadar busana, abaya adalah perwujudan dari kelembutan, kepercayaan diri, dan gaya yang timeless. Setiap potongannya dirancang untuk memberikan kenyamanan tanpa mengorbankan estetika. Simpel, elegan, dan selalu memancarkan pesona di setiap kesempatann.
   
 
 intro:
