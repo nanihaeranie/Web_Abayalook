@@ -1,33 +1,39 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
-date: 2016-12-17T15:04:10.000Z
+title: Memahami Gaya Abaya yang Baru Tren dan Sentuhan Modern dalam Busana Muslimah
+date: 2025-04-23T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/gamisc.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: Tampilan abaya, salah satu busana ikonik dalam dunia fashion Muslimah, kini hadir dengan sentuhan baru yang lebih segar dan modern. Untuk pertama kalinya dalam beberapa tahun terakhir, desain abaya mengalami pembaruan besar-besaran, menjadikannya lebih stylish namun tetap menjaga kesan anggun dan syar’i.
 tags:
   - flavor
   - tasting
 ---
 ![flavor wheel](/img/gamisc.jpg)
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Desain abaya kini diperbarui untuk mencerminkan nuansa yang lebih halus dan detail dalam dunia fashion Muslimah.
+Model-model terbaru hadir dengan potongan dan detail yang lebih variatif, memungkinkan para pecinta fashion membedakan gaya dan karakter setiap tampilan abaya dengan lebih jelas.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+Meski perubahan ini cukup signifikan bagi para desainer dan pelaku industri mode, hal ini juga berdampak besar bagi kamu sebagai konsumen. Kita akan bahas bagaimana tren abaya ini berkembang, bagaimana para desainer memakainya untuk menyampaikan identitas, dan apa arti dari setiap detail yang dihadirkan dalam koleksi terbaru.
 
-## What the updates mean to you
+## Apa Arti Pembaruan Ini untuk Kamu
+Tren terbaru dalam dunia abaya look bukan sekadar perubahan gaya, tapi juga mencerminkan evolusi dalam industri fashion Muslimah secara keseluruhan. Seperti halnya SCAA yang menaungi berbagai pihak dalam industri kopi, industri fashion Muslimah juga melibatkan berbagai elemen penting, seperti:
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+* Desainer busana Muslimah
+* Brand fashion lokal maupun internasional
+* Penjual dan butik abaya
+* Penjahit dan pengrajin tekstil
+* Influencer dan fashion stylist
+* Konsumen seperti kamu yang mencari gaya elegan dan syar’i
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+Selama beberapa dekade terakhir, perkembangan abaya tidak hanya sebatas pada perubahan gaya, tetapi juga membentuk komunitas fashion Muslimah yang semakin kreatif dan solid.
+Industri ini terus berinovasi dengan menghadirkan desain-desain yang segar, mempertahankan kualitas, dan menyesuaikan dengan kebutuhan perempuan modern.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+Tak hanya fokus pada tampilan, para pelaku industri juga berkontribusi dalam edukasi seputar modest fashion, menyediakan pelatihan, riset tren, serta dukungan bisnis agar abaya look tetap relevan dan diminati di berbagai belahan dunia.
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+Mengenal Lebih Dalam Tentang Abaya Look
+Mengenakan abaya bukan sekadar soal berpakaian, tapi juga tentang memahami nuansa dan karakter dari setiap desain dan bahan yang digunakan. Meskipun biasanya dilakukan oleh para fashion stylist atau desainer profesional, siapa pun bisa menikmati proses memilih abaya yang sesuai dengan gaya dan kepribadiannya.
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+Dalam fashion styling abaya, prosesnya bisa melibatkan pengamatan detail mulai dari potongan desain, tekstur kain (apakah ringan, jatuh, atau mengilap), warna, sentuhan aksen seperti bordir atau payet, hingga kesan keseluruhan saat dikenakan.
+
+Para pencinta fashion Muslimah sering kali mencoba "merasakan" identitas dari sebuah abaya — apakah terlihat klasik, modern, mewah, atau minimalis. Karena abaya juga bisa mencerminkan budaya atau daerah asal desainnya, banyak yang mulai tertarik menelusuri inspirasi di balik setiap koleksi.
