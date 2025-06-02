@@ -11,10 +11,10 @@ mainpitch:
     
     Abaya bukan sekedar pakaian, tapi seni dalam kesederhanaan. Dengan sentuhan Arabic elegance dan Korean minimalism.
 description: >-
-  "Abaya: Keanggunan yang Tak Lekang oleh Waktu" ✨🖤  Lebih dari sekadar busana, abaya adalah perwujudan dari kelembutan, kepercayaan diri, dan gaya yang timeless. Setiap potongannya dirancang untuk memberikan kenyamanan tanpa mengorbankan estetika. Simpel, elegan, dan selalu memancarkan pesona di setiap kesempatan.
+   Abaya Keanggunan yang Tak Lekang oleh Waktu ✨🖤  Lebih dari sekadar busana, abaya adalah perwujudan dari kelembutan, kepercayaan diri, dan gaya yang timeless. Setiap potongannya dirancang untuk memberikan kenyamanan tanpa mengorbankan estetika. Simpel, elegan, dan selalu memancarkan pesona di setiap kesempatan.
 
 subdescription: >-
-  "Abaya: Keanggunan yang Tak Lekang oleh Waktu" ✨🖤  Lebih dari sekadar busana, abaya adalah perwujudan dari kelembutan, kepercayaan diri, dan gaya yang timeless. Setiap potongannya dirancang untuk memberikan kenyamanan tanpa mengorbankan estetika. Simpel, elegan, dan selalu memancarkan pesona di setiap kesempatann.
+  Lebih dari sekadar pakaian, abaya adalah representasi dari keanggunan, kekuatan, dan identitas yang berkelas. Setiap detailnya menghadirkan kenyamanan yang menyatu dengan sentuhan estetika yang memikat. Minimalis namun menawan, abaya selalu tampil memukau di setiap momen.
   
 
 intro:
