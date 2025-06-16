@@ -4,10 +4,21 @@ title: Panduan tampil elegan dengan Abaya Look terbaru
 date: 2025-04-14T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/gamise.jpg
-description: Memakai abaya mungkin awalnya terasa seperti pilihan gaya yang terlalu formal atau kaku, tapi setelah terbiasa, abaya justru jadi bagian dari rutinitas berpakaian yang menenangkan. Setiap kali dikenakan, selalu ada kesan anggun dan percaya diri yang terasa istimewa.
+description: Memakai abaya mungkin awalnya terasa seperti pilihan gaya yang terlalu formal atau kaku, tapi setelah terbiasa, abaya justru jadi bagian dari rutinitas berpakaian yang menenangkan. Setiap kali dikenakan, selalu ada kesan anggun dan percaya diri yang terasa istimewa. Material ringan, flowy, dan sejuk – sesuai untuk cuaca panas dan aktiviti harian.
+
+
 tags:
-  - brewing
-  - chemex
+  - AbayaLook
+  - AbayaStyle
+  - ModestFashion
+  - MuslimahStyle
+  - OotdMuslimah
+  - AbayaMalaysia
+  - AbayaChic
+  - AbayaMalaysia
+  - AbayaInspo
+  - ElegantModesty
+  - SimpleButElegant
 ---
 ![chemex](/img/gamise.jpg)
 

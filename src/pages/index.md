@@ -9,9 +9,11 @@ mainpitch:
   description: >-
    Marhaban, Fashionista Abaya! ✨🖤 
     
-    Abaya bukan sekedar pakaian, tapi seni dalam kesederhanaan. Dengan sentuhan Arabic elegance dan Korean minimalism.
+    Abaya bukan sekedar pakaian, tapi seni dalam kesederhanaan. Dengan sentuhan Arabic elegance dan Korean minimalism, setiap potongannya mencerminkan kelembutan, kekuatan, dan keanggunan seorang wanita. Dibalut dalam gaya yang sopan namun memikat, abaya adalah cara kita bercerita-tanpa perlu banyak kata.
 description: >-
    Abaya Keanggunan yang Tak Lekang oleh Waktu ✨🖤  Lebih dari sekadar busana, abaya adalah perwujudan dari kelembutan, kepercayaan diri, dan gaya yang timeless. Setiap potongannya dirancang untuk memberikan kenyamanan tanpa mengorbankan estetika. Simpel, elegan, dan selalu memancarkan pesona di setiap kesempatan.
+   
+   Dipadukan dengan sentuhan Arabic elegance dan Korean minimalism, abaya menghadirkan harmoni antara tradisi dan modernitas menjadi simbol identitas dan ekspresi diri wanita muslimah masa kini.
 
 subdescription: >-
   Lebih dari sekadar pakaian, abaya adalah representasi dari keanggunan, kekuatan, dan identitas yang berkelas. Setiap detailnya menghadirkan kenyamanan yang menyatu dengan sentuhan estetika yang memikat. Minimalis namun menawan, abaya selalu tampil memukau di setiap momen.
