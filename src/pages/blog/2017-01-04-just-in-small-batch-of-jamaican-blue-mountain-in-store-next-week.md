@@ -1,5 +1,6 @@
 ---
 templateKey: 'blog-post'
+path: /blog
 title: 'Segera Hadir: Koleksi Abaya Terbaru dalam Jumlah Terbatas di Toko Minggu Depan'
 date: 2025-05-25T15:04:10.000Z
 featuredpost: true

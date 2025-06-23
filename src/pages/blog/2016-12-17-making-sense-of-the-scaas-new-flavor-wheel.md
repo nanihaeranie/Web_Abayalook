@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Memahami Gaya Abaya yang Baru Tren dan Sentuhan Modern dalam Busana Muslimah
 date: 2025-04-23T15:04:10.000Z
 featuredpost: false

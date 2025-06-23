@@ -1,5 +1,6 @@
 ---
 templateKey: blog-post
+path: /blog
 title: Panduan tampil elegan dengan Abaya Look terbaru
 date: 2025-04-14T15:04:10.000Z
 featuredpost: false
