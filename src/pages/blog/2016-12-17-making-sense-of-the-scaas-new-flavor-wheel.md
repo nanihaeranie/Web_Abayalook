@@ -7,15 +7,15 @@ featuredimage: /img/gamisc.jpg
 description: Tampilan abaya, salah satu busana ikonik dalam dunia fashion Muslimah, kini hadir dengan sentuhan baru yang lebih segar dan modern. Untuk pertama kalinya dalam beberapa tahun terakhir, desain abaya mengalami pembaruan besar-besaran, menjadikannya lebih stylish namun tetap menjaga kesan anggun dan syar’i, Abaya eksklusif dengan potongan mewah dan kemasan premium. Dihasilkan dengan teliti untuk wanita yang menghargai kualiti dan penampilan yang mempesona di setiap langkah.
 tags:
   - Abaya Look
-  - Abaya Look Gaya Malaysia
-  - Abaya Look Style Indonesia
-  - Abaya Look Rajeg 
-  - Abaya Look Tangerang 
-  - Abaya Look Muslimah Indonesia
-  - Abaya Look Fashion Rajeg 
-  - Abaya Look Arabic
-  - Abaya Look Fashion Arabic
-  - Abaya Look Gaya Arab
+  - fashion Muslimah
+  - Desain abaya
+  - Tren terbaru
+  - fashion stylist
+  - fashion lokal
+  - fashion styling abaya
+  - Abaya
+  - Dunia abaya look
+  - Brand fashion lokal
 ---
 ![flavor wheel](/img/gamisc.jpg)
 

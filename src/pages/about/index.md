@@ -5,7 +5,7 @@ title: Tentang Abaya Look
 ---
 ### 🌿 Keanggunan Abaya yang Abadi
 
-Abaya bukan sekadar pakaian, tetapi cerminan dari keanggunan dan kepercayaan diri. Terinspirasi dari tradisi yang kaya, setiap abaya dirancang dengan keseimbangan antara estetika dan kenyamanan, memberikan siluet anggun dalam setiap langkahh.
+Abaya bukan sekadar pakaian, tetapi cerminan dari keanggunan dan kepercayaan diri. Terinspirasi dari tradisi yang kaya, setiap abaya dirancang dengan keseimbangan antara estetika dan kenyamanan, memberikan siluet anggun dalam setiap langkahh MuslimahElegance.
 
 ### 🌍 Keaslian dalam Setiap Serat
 Seperti konsep single-origin dalam kopi, setiap koleksi abaya kami menghadirkan keunikan dari satu sumber yang terpilih. Dengan material berkualitas tinggi dari daerah tertentu, kami memastikan bahwa setiap helai kain membawa cerita dan karakter yang khas.

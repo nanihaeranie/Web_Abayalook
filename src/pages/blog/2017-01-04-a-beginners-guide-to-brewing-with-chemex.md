@@ -10,15 +10,15 @@ description: Memakai abaya mungkin awalnya terasa seperti pilihan gaya yang terl
 tags:
   - AbayaLook
   - AbayaStyle
-  - ModestFashion
-  - MuslimahStyle
-  - OotdMuslimah
-  - AbayaMalaysia
-  - AbayaChic
-  - AbayaMalaysia
-  - AbayaInspo
-  - ElegantModesty
-  - SimpleButElegant
+  - Abaya
+  - Gaya modern
+  - Warisan budaya dan gaya
+  - Estetika abaya
+  - Modis
+  - Abaya mewah
+  - Tampilan abaya
+  - Tren moderen
+  - Kecantikan tradisional
 ---
 ![chemex](/img/gamise.jpg)
 
